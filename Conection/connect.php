@@ -1,7 +1,7 @@
 <?php
-    $host = '10.28.2.34';
-    $user = 'suporte';
-    $password = 'suporte';
+    $host = 'localhost';
+    $user = 'root';
+    $password = '';
     $database = 'turma139';
 
     $db = new mysqli($host,$user,$password,$database);
